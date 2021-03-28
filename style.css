@@ -1,0 +1,19 @@
+h1 {
+    color: navy;
+    text-align: center;
+}
+#sample1 {
+    color: #008b8b;
+    text-align: center;
+    font-size: 50px;
+}
+#sample2 {
+    color: chocolate;
+    text-align: center;
+    font-size: 30px;
+}
+#sample3 {
+    color: darkgreen;
+    text-align: center;
+    font-size: 30px;
+}
